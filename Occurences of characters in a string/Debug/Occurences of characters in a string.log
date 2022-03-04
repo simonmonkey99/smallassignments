@@ -1,0 +1,5 @@
+﻿  Occurences of characters in a string.cpp
+C:\Users\SimonLiljedahl\source\repos\C++ Assignments\Occurences of characters in a string\Occurences of characters in a string.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SimonLiljedahl\source\repos\C++ Assignments\Occurences of characters in a string\Occurences of characters in a string.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SimonLiljedahl\source\repos\C++ Assignments\Occurences of characters in a string\Occurences of characters in a string.cpp(82,21): warning C4018: '<': signed/unsigned mismatch
+  Occurences of characters in a string.vcxproj -> C:\Users\SimonLiljedahl\source\repos\C++ Assignments\Debug\Occurences of characters in a string.exe

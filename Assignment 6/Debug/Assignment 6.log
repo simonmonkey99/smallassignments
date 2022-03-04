@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment 6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Guessing game.cpp
+C:\Users\SimonLiljedahl\source\repos\C++ Assignments\Assignment 6\Guessing game.cpp(61,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment 6.vcxproj -> C:\Users\SimonLiljedahl\source\repos\C++ Assignments\Debug\Guessing Game.exe

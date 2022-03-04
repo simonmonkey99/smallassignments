@@ -1,0 +1,8 @@
+﻿  Assignment 7.cpp
+C:\Users\SimonLiljedahl\source\repos\C++ Assignments\Assignment 7\Assignment 7.cpp(25,9): error C3861: 'is_equal': identifier not found
+C:\Users\SimonLiljedahl\source\repos\C++ Assignments\Assignment 7\Assignment 7.cpp(25,9): message : 'is_equal': function was not declared in the template definition context and can be found only via argument-dependent lookup in the instantiation context
+C:\Users\SimonLiljedahl\source\repos\C++ Assignments\Assignment 7\Assignment 7.cpp(11): message : see reference to function template instantiation 'std::string ArithmicProgression<double,4>(T (&)[4])' being compiled
+          with
+          [
+              T=double
+          ]
